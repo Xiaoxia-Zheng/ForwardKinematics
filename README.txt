@@ -9,7 +9,8 @@ Input / Output
 --------------
 filename		description
 ogre-skeleton.bf	.bf "bone forest" file containing the skeleton description. 
-			This is a crude file format that stores joint vertex rest positions, corresponding column indices into the weights matrix, and indices of parent joints
+			This is a crude file format that stores joint vertex rest positions, corresponding 
+			column indices into the weights matrix, and indices of parent joints
 pose.dmat		"dense matrix" containing the poses. Each pose is given as a set of 
 					69 "Euler angles" for 23 3-degree-of-freedom ball-and-socket joints.
 

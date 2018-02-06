@@ -7,7 +7,7 @@ There are two parts to this project, (1) designing data structures to store the 
 --------------
 Input / Output
 --------------
-filename	description
+filename		description
 ogre-skeleton.bf	.bf "bone forest" file containing the skeleton description. 
 					This is a crude file format that stores joint vertex rest positions, 
 					corresponding column indices into the weights matrix, and indices of 
